@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kleber Mendonça (Kleber-sjc) 😎
 
-🧑‍🎓 Cursando Analise e Desnvolvimento de Sistemas, em transição de carreira. 😊
+🧑‍🎓 Analise e Desnvolvimento de Sistemas, em transição de carreira. 😊
 
 ** Atuação Proficional**
 
