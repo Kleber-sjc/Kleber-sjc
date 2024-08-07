@@ -6,7 +6,7 @@
 
 -🔌Tecnico em Manutenção Eletronica
 
--💻 Cursando área de Técnologia   [Estácio de SA](https://estacio.br/)
+-💻 Concluí o curso na área de Técnologia em 2024  [Estácio de SA](https://estacio.br/)
 
 ### 🤖 Estátisticas no Github
 
