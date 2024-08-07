@@ -14,8 +14,8 @@
 
 ### 🏷️Projetos em Destaque
 
-?👨‍💻
+👨‍💻 Banco digital com Java
 
-### ☑️ Linguagem em Destaque
+### ☑️ Linguagens em Destaque
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleber-sjc&layout=compact)
