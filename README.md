@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kleber-sjc/Kleber-sjc/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
