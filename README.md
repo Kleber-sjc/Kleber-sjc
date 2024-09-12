@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-# Olá, eu sou o Kleber Mendonça 😎<br><br> # Formação:🧑‍🎓 Analise e Desenvolvimento de Sistemas. 😊<br><br># Atualmente estou estudando novas linguágens como JavaScrip e Pyton.<br><br>-💻 Concluí o curso na área de Técnologia em 2024  [Estácio de SA](https://estacio.br/)</p>
+# Olá, eu sou o Kleber Mendonça 😎<br><br> # Formação:🧑‍🎓 Analise e Desenvolvimento de Sistemas. 😊<br><br># Atualmente estou desenvolvendo novas habilidades como JavaScrip e Pyton.<br><br>-💻 Concluí o curso na área de Técnologia em 2024  [Estácio de SA](https://estacio.br/)</p>
 
 ###
 
